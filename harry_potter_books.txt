@@ -1,0 +1,41 @@
+Title: Harry Potter and the Philosopher's Stone
+Author: J.K. Rowling
+ISBN: 9780747532743
+Year Published: 1997
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Chamber of Secrets
+Author: J.K. Rowling
+ISBN: 9780439064873
+Year Published: 1998
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Prisoner of Azkaban
+Author: J.K. Rowling
+ISBN: 9780439655484
+Year Published: 1999
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Goblet of Fire
+Author: J.K. Rowling
+ISBN: 9780439139601
+Year Published: 2000
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Order of the Phoenix
+Author: J.K. Rowling
+ISBN: 9780439358071
+Year Published: 2003
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Half-Blood Prince
+Author: J.K. Rowling
+ISBN: 9780439785969
+Year Published: 2005
+Genres: Fantasy, Adventure
+
+Title: Harry Potter and the Deathly Hallows
+Author: J.K. Rowling
+ISBN: 9780545010221
+Year Published: 2007
+Genres: Fantasy, Adventure
