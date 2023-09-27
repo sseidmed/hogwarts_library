@@ -18,4 +18,5 @@ load_dotenv()
 
 engine = create_engine(os.environ['DATABASE_URL'])
 Session = sessionmaker(engine)
+
 print('Database URL:', os.environ['DATABASE_URL'])
